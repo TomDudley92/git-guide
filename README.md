@@ -25,7 +25,7 @@ Prevents the merge commit and allows the user to inspect the code before committ
 Once you've reviewed the code and you're happy:
 ```git commit --author=<author's email address>```
 
-You can type in the first few     characters and it will pick up the email address if you've already merged a pr for this person.
+You can type in the first few characters and it will pick up the email address if you've already merged a pr for this person.
 For example:
 ```git commit --author=tes```
 
