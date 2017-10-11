@@ -1,2 +1,2 @@
 # git-guide
-Test repository created for test community meeint
+Test repository created for test community meeting
